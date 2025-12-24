@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: your-project
+Version: 0.1.0
+Requires-Dist: requests>=2.31
+Requires-Dist: cachetools>=6.2.4

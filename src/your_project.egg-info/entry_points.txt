@@ -1,0 +1,2 @@
+[console_scripts]
+ttl-cache = ttl_cache.main:run
